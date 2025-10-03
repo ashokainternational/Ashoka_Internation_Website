@@ -57,7 +57,7 @@ const Home = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              CompleteSSS Hardware Solutions
+              Complete Hardware Solutions
             </h1>
             <p className="text-xl mb-8">
               Ashoka International Ltd offers a complete range of quality
